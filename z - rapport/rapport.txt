@@ -1,0 +1,35 @@
+-------------------------------------
+- La taille des images du listing des produits dans le domaines d'intervention peuvent être variable mais il faudra utiliser des images de même dimension pour garder un rendu variable :
+    - même hauteur
+    - même largeur
+
+
+-------------------------------------
+- Même méta description et Open Graphe à travers toutes les pages ?
+
+
+
+
+-------------------------------------
+- Il manque les pages :
+ - Actualités - 
+ - Mentions Légales - https://www.ldlc.com/aide/53-informations-legales/
+ - Plan du site - https://www.ldlc.com/categories/
+ - CGV - https://www.ldlc.com/aide/58-nos-conditions-generales-de-vente/
+ - CGL - https://www.ldlc.com/aide/58-nos-conditions-generales-de-vente/
+
+
+
+-------------------------------------
+Il manque les images à la page :
+    - Accueil x1
+        - Image d'accueil
+
+    - Presentation x 4
+        - Profile Kevin
+        - Profile Laurie
+        - Chez Promedic x2
+
+
+-------------------------------------
+Le dossier Downloads contiendra les fiches de formations Générales
